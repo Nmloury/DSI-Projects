@@ -1,0 +1,37 @@
+DATA NAME,FIELD NAME,FIELD DESCRIPTION
+PROPLOC,Property Location,"Situs/Location, as well as room/unit number"
+RP1NBRCDE,Neighborhood Code,ASR neighborhood code based on MLS districts
+RP1PRCLID,Block and Lot Number,Block and Lot Number (Full APN)
+RP1VOLUME,Volume Number,Volume number
+RP1CLACDE,Property Class Code,Property type
+YRBLT,Year Property Built,Year improvement was built (can be blend of original and newer constructon)
+BATHS,Number of Bathrooms,Number of bathrooms (BA with no shower or tub is 1/2 bathroom)
+BEDS,Number of Bedrooms,Number of bedrooms (bedrooms have a closet)
+ROOMS,Number of Rooms,"Number of rooms, excluding bathrooms, halls, closets, etc."
+STOREYNO,Number of Stories,Number of stories
+UNITS,Number of Units,Number of units
+CHGDATE,Characteristics Change Date (YYMM),Date of change to property characteristics
+ZONE,Zoning Code,Zone code
+CONSTTYPE,Construction Type,Generally type of construction
+DEPTH,Lot Depth,Depth of lot in linear feet
+FRONT,Lot Frontage,Linear footage of front facing side of lot (front foot)
+SQFT,Property Area in Square Feet,Same as lot area
+FBA,Basement Area,Square footage of basement
+LAREA,Lot Area,Square footage of lot
+LOTCODE,Lot Code,"lot shapes, could be Rectangle, Square or Other"
+REPRISDATE,Prior Sales Date (YYMMDD),prior sale date
+RP1RECDAT1,RECORDATION DATE ‘99/99/99’,Recordation date (YYMMDD)
+RP1DOCNO1,Document Number,Recorded document number #1
+RP1DOCNO2,Document Number,Recorded document number #2
+RP1TRACDE,Tax Rate Area Code,Tax rate dependent on location within the City
+OWNRPRCNT,Percent of Ownership,Percent of ownership
+EXEMPTYPE,Closed Roll Exemption Type Code,Exemption Code (see below for descriptions)
+RP1STACDE,Closed Roll Status Code,"i.e. Taxable, Non-Taxable, SBE, etc."
+RP1EXMVL2,Closed Roll Misc. Exemption Value,Exemptions such as welfare
+RP1EXMVL1,Closed Roll Homeowner Exemption Value,Homeowner's exemption
+ROLLYEAR,Closed Roll Year,Roll Year
+RECURRSALD,Current Sales Date (YYMMDD),current sale date
+RP1FXTVAL,Closed Roll Assessed Fixtures Value,Assessed value of fixtures
+RP1IMPVAL,Closed Roll Assessed Improvement Value,Assessed value of improvements
+RP1LNDVAL,Closed Roll Assessed Land Value,Assessed value of land
+RP1PPTVAL,Closed Roll Assessed Personal Prop Value,Assessed value of personal property
